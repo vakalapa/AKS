@@ -83,3 +83,18 @@ Kenneth Kilty:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KenKilty"
+
+Vamsi Kalapala:
+  name        : "Vamsi Kalapala"
+  bio         : "Principal Software Engineering Manager in Azure Container Networking."
+  avatar      : "https://pbs.twimg.com/profile_images/1826009428942028800/DffyOt6l_400x400.jpg" # Replace this with your avatar image
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vamsikalapala/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vakalapa"
+    - label: "X"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/vamsi1105"
